@@ -1,0 +1,109 @@
+
+
+#card_container {
+
+border: 2px solid #1C763F;
+
+box-shadow: 6px 6px 6px 2px rgba(0; 0;0; 0.5);
+
+border-radius: 20px;
+
+padding: 0 20px;
+
+display: inline-block;
+
+background-color: rgba(0; 0; 0; 0);
+
+}
+
+.body {
+
+  font-family: arial;
+  }
+
+.card_title {
+
+  font-weight: bold;
+
+  text-transform: uppercase;
+
+  text-decoration: underline;
+
+  text-align: center;
+
+  font-size: 200%;
+
+  margin: 10px;
+
+  color: #1C763F;
+
+  letter-spacing: 2px;
+
+  padding: 1px;
+}
+
+.card_image {
+
+  border: 2px solid #1C763F;
+
+  box-shadow: 3px 3px #1C763F;
+
+  border-radius: 20px 50px;
+
+  margin-bottom: 10px;
+
+  padding: 0px;
+
+  margin-left: 20px;
+}
+
+
+.card_description {
+
+  border: 2px solid #1C763F;
+
+  border-radius: 10px;
+
+  margin-bottom: 30px;
+
+  margin-left: 20px;
+
+  margin-right: 20px;
+
+  margin-top: 15px;
+
+  padding-right: 5px;
+
+  padding-bottom: 5px;
+
+  padding-left: 5px;
+}
+
+.interesting_fact {
+
+  font-style: italic;
+}
+
+.list_items {
+
+  list-style-type: none;
+
+  padding: 1px 5px 5px 5px;
+}
+
+.list_items span {
+
+  font-weight: bold;
+}
+
+
+.button {
+
+  .button {
+
+ font-weight: bold;
+
+ cursor: pointer;
+
+width: 100px;
+}
