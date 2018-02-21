@@ -89,6 +89,8 @@ background-color: rgba(0, 0, 0, 0);
 .list_items {
 
   list-style-type: none;
+  
+  text-align: left;
 
   padding: 1px 5px 5px 5px;
 }
