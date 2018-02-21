@@ -12,7 +12,7 @@ padding: 0 20px;
 
 display: inline-block;
 
-background-color: rgba(0; 0; 0; 0);
+background-color: rgba(0, 0, 0, 0);
 
 }
 
@@ -64,20 +64,11 @@ background-color: rgba(0; 0; 0; 0);
 
   border-radius: 10px;
 
-  margin-bottom: 30px;
+  margin: 30px 20px 20px 15px;
 
-  margin-left: 20px;
+  padding: 5px 5px 5 px 5 px;
 
-  margin-right: 20px;
-
-  margin-top: 15px;
-
-  padding-right: 5px;
-
-  padding-bottom: 5px;
-
-  padding-left: 5px;
-}
+  }
 
 .interesting_fact {
 
@@ -98,8 +89,6 @@ background-color: rgba(0; 0; 0; 0);
 
 
 .button {
-
-  .button {
 
  font-weight: bold;
 
